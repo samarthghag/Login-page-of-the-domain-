@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LoginPage of Digital Service Ag App/1.0.0": {
+        "runtime": {
+          "LoginPage of Digital Service Ag App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoginPage of Digital Service Ag App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

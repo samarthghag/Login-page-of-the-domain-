@@ -1,0 +1,18 @@
+C:\Users\Samarth\source\repos\LoginPage of Digital Service Ag App\LoginPage of Digital Service Ag App\bin\Debug\net8.0-windows\LoginPage of Digital Service Ag App.exe
+C:\Users\Samarth\source\repos\LoginPage of Digital Service Ag App\LoginPage of Digital Service Ag App\bin\Debug\net8.0-windows\LoginPage of Digital Service Ag App.deps.json
+C:\Users\Samarth\source\repos\LoginPage of Digital Service Ag App\LoginPage of Digital Service Ag App\bin\Debug\net8.0-windows\LoginPage of Digital Service Ag App.runtimeconfig.json
+C:\Users\Samarth\source\repos\LoginPage of Digital Service Ag App\LoginPage of Digital Service Ag App\bin\Debug\net8.0-windows\LoginPage of Digital Service Ag App.dll
+C:\Users\Samarth\source\repos\LoginPage of Digital Service Ag App\LoginPage of Digital Service Ag App\bin\Debug\net8.0-windows\LoginPage of Digital Service Ag App.pdb
+C:\Users\Samarth\source\repos\LoginPage of Digital Service Ag App\LoginPage of Digital Service Ag App\obj\Debug\net8.0-windows\LoginPage_of_Digital_Service_Ag_App.Form1.resources
+C:\Users\Samarth\source\repos\LoginPage of Digital Service Ag App\LoginPage of Digital Service Ag App\obj\Debug\net8.0-windows\LoginPage_of_Digital_Service_Ag_App.Properties.Resources.resources
+C:\Users\Samarth\source\repos\LoginPage of Digital Service Ag App\LoginPage of Digital Service Ag App\obj\Debug\net8.0-windows\LoginPage of Digital Service Ag App.csproj.GenerateResource.cache
+C:\Users\Samarth\source\repos\LoginPage of Digital Service Ag App\LoginPage of Digital Service Ag App\obj\Debug\net8.0-windows\LoginPage of Digital Service Ag App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samarth\source\repos\LoginPage of Digital Service Ag App\LoginPage of Digital Service Ag App\obj\Debug\net8.0-windows\LoginPage of Digital Service Ag App.AssemblyInfoInputs.cache
+C:\Users\Samarth\source\repos\LoginPage of Digital Service Ag App\LoginPage of Digital Service Ag App\obj\Debug\net8.0-windows\LoginPage of Digital Service Ag App.AssemblyInfo.cs
+C:\Users\Samarth\source\repos\LoginPage of Digital Service Ag App\LoginPage of Digital Service Ag App\obj\Debug\net8.0-windows\LoginPage of Digital Service Ag App.csproj.CoreCompileInputs.cache
+C:\Users\Samarth\source\repos\LoginPage of Digital Service Ag App\LoginPage of Digital Service Ag App\obj\Debug\net8.0-windows\LoginPage of Digital Service Ag App.dll
+C:\Users\Samarth\source\repos\LoginPage of Digital Service Ag App\LoginPage of Digital Service Ag App\obj\Debug\net8.0-windows\refint\LoginPage of Digital Service Ag App.dll
+C:\Users\Samarth\source\repos\LoginPage of Digital Service Ag App\LoginPage of Digital Service Ag App\obj\Debug\net8.0-windows\LoginPage of Digital Service Ag App.pdb
+C:\Users\Samarth\source\repos\LoginPage of Digital Service Ag App\LoginPage of Digital Service Ag App\obj\Debug\net8.0-windows\LoginPage of Digital Service Ag App.genruntimeconfig.cache
+C:\Users\Samarth\source\repos\LoginPage of Digital Service Ag App\LoginPage of Digital Service Ag App\obj\Debug\net8.0-windows\ref\LoginPage of Digital Service Ag App.dll
+C:\Users\Samarth\source\repos\LoginPage of Digital Service Ag App\LoginPage of Digital Service Ag App\obj\Debug\net8.0-windows\LoginPage_of_Digital_Service_Ag_App.SignupForm.resources
